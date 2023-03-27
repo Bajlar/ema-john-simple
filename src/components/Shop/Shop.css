@@ -7,5 +7,5 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 45px;
-  margin: 120px 82px auto 104px;
+  margin: 50px 82px auto 104px;
 }
